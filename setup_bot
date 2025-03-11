@@ -13,7 +13,7 @@ echo "🔹 Создаём рабочую папку для бота..."
 mkdir -p ~/telegram_bot && cd ~/telegram_bot
 
 echo "🔹 Клонируем репозиторий с ботом..."
-git clone git@github.com:aizetta/ObsidianKeeperBot.git .  # Замените на свой репозиторий
+git clone https://github.com/aizetta/ObsidianKeeperBot.git .  # Замените на свой репозиторий
 
 echo "🔹 Клонируем репозиторий с ботом..."
 git clone git@github.com:aizetta/ObsidianKeeperBot.git Obsidian # Замените на свой репозиторий обсидиан
